@@ -137,7 +137,7 @@
 
 						<td width="60%">
 							<font face="Verdana" size="4"
-								color="red">
+								color="green">
 								Thanks for your interest, here
 								is a quick story of me and this
 								website.
